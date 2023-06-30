@@ -1,0 +1,15 @@
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\bin\Debug\net7.0\InsertionSort.exe
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\bin\Debug\net7.0\InsertionSort.deps.json
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\bin\Debug\net7.0\InsertionSort.runtimeconfig.json
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\bin\Debug\net7.0\InsertionSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\bin\Debug\net7.0\InsertionSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.AssemblyReference.cache
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfoInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.AssemblyInfo.cs
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.csproj.CoreCompileInputs.cache
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\refint\InsertionSort.dll
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.pdb
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\InsertionSort.genruntimeconfig.cache
+G:\Razal\Sourcecodes\C#\Algorithms\InsertionSort\obj\Debug\net7.0\ref\InsertionSort.dll
